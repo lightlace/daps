@@ -191,7 +191,7 @@
 <!ENTITY daps-install-sle 
 '<para>Starting with &sle; 12, &dapsacr; is also available for
     &sle;. The &dapsacr; package is provided by the &sdk; (SDK), a
-    free extension for &sle;. You need to install it as add-on (or
+    free extension for &sle;. You need to install it as an add-on (or
     extension). You can install the SDK (without any physical media) as an
     extension after the registration of your system at &scc;. If you prefer
     to install from a physical medium, proceed as follows:</para>
